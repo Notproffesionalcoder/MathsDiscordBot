@@ -1,5 +1,7 @@
 # Warning
 This might be complicated if new to python
+# Very important
+I have written the number for example you have to remove it
 # Details
 Discord.py details can be found here
 /discordpy.readthedocs.io/en/stable/index.html also https://pypi.org/project/discord.py/
