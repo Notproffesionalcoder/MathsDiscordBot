@@ -1,5 +1,7 @@
 # Warning
 This might be complicated if new to python
+# Language
+discord.py soon repoistory of discord.js will come
 # Very important
 I have written the number for example you have to remove it
 # Details
